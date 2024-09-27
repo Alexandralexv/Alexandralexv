@@ -32,11 +32,11 @@ Here are some ideas to get you started:
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" title="vscode" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" title="windows 11" width="40" height="40"/>&nbsp;
-          
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alexandralexv&theme=apprentice)          
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alexandralexv&theme=apprentice)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=alexandralexv&theme=apprentice)
-
+<div align="center">
+          ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alexandralexv&theme=apprentice)          
+          ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alexandralexv&theme=apprentice)
+          ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=alexandralexv&theme=apprentice)
+</div>
           
           
 
