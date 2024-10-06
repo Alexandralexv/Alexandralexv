@@ -1,4 +1,4 @@
-<h1>Console.log("Hi there 👋");</h1>
+<h1 text-decoration=none>Console.log("Hi there 👋");</h1>
 
 ---
 <h2>👨‍💻 Whoami</h2>
