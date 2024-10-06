@@ -53,8 +53,6 @@ My name is Alexandr Semionov. I am a front-end developer from Russia, currently 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/alexandralexv)
 [![VK](https://img.shields.io/badge/VK-4A76A8?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/alex_semionov)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Alexandralexv)
-[![LeetCode](https://img.shields.io/badge/LeetCode-F9C30D?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/AlexandrSemionov/)
-[![learn.javascript](https://img.shields.io/badge/learn.javascript-FFE600?style=for-the-badge&logo=javascript&logoColor=black)](https://learn.javascript.ru/profile/alexandralexv/courses)
 
 <h4 align=center>My stats:</h4>
 <div align="center">
