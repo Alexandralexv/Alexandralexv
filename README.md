@@ -1,5 +1,5 @@
-## Console.log("Hi there 👋");
-#👨‍💻 Whoami
+# Console.log("Hi there 👋");
+##👨‍💻 Whoami
 
 ### 🔧 Technologies & Tools
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
