@@ -1,6 +1,6 @@
 # Console.log("Hi there 👋");
 ## 👨‍💻 Whoami
-My name is Alexander Semionov. I am a front-end developer from Russia, currently living in Moscow and studying at the Financial University.
+My name is Alexander Semionov. I am a front-end developer from Russia, currently living in Moscow and studying at the Financial University. I am interested in creating websites and learning new technologies, especially those related to JavaScript.
 
 ### 🔧 Technologies & Tools
 ---
