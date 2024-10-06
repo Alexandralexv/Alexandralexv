@@ -1,5 +1,6 @@
 # Console.log("Hi there 👋");
 ## 👨‍💻 Whoami
+My name is Alexander Semionov. I am a front-end developer from Russia, currently living in Moscow and studying at the Financial University.
 
 ### 🔧 Technologies & Tools
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
