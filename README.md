@@ -63,8 +63,7 @@ My name is Alexandr Semionov. I am a front-end developer from Russia, currently 
           
 <h4 align=center>My Projects:</h4>          
 
-<div align=center>Bangkok food site(HTML/CSS/JavaScript):</div> 
-[![FoodProject](https://img.shields.io/badge/FoodProject-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Alexandralexv/FoodProject)
+Bangkok food site(HTML/CSS/JavaScript): [![FoodProject](https://img.shields.io/badge/FoodProject-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Alexandralexv/FoodProject)
 
           
           
