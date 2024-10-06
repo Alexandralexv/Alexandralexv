@@ -40,7 +40,7 @@
 [![VK](https://img.shields.io/badge/VK-4A76A8?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/alex_semionov)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Alexandralexv)
 
-My stats:
+<h4 align=center>My stats:</h4>
 <div align="center">
           <img  src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alexandralexv&theme=apprentice"/>
           <img  src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alexandralexv&theme=apprentice"/>
