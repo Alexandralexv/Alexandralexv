@@ -32,6 +32,7 @@ My name is Alexandr Semionov. I am a front-end developer from Russia, currently 
 ![Vuex](https://img.shields.io/badge/Vuex-4A5481?style=for-the-badge&logo=vuex&logoColor=white)
 ![Pinia](https://img.shields.io/badge/Pinia-9C27B0?style=for-the-badge&logo=vue&logoColor=white)
 ![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxt.js&logoColor=white)
+![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
 
 ### 👾 What I am interested in learning at some point
 ---
@@ -44,7 +45,6 @@ My name is Alexandr Semionov. I am a front-end developer from Russia, currently 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
