@@ -8,6 +8,7 @@ My name is Alexandr Semionov. I am a front-end developer from Russia, currently 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -28,7 +29,6 @@ My name is Alexandr Semionov. I am a front-end developer from Russia, currently 
 
 ### 📖 What I am currently learning / improving on
 ---
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
 ![Vuex](https://img.shields.io/badge/Vuex-4A5481?style=for-the-badge&logo=vuex&logoColor=white)
 ![Pinia](https://img.shields.io/badge/Pinia-9C27B0?style=for-the-badge&logo=vue&logoColor=white)
